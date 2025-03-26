@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://slack.com/lsantand" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="47" height="35" alt="slack logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="35" height="35" alt="slack logo"  />
   </a>
 </div>
 
@@ -65,6 +65,6 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/SantanderNycz/SantanderNycz/main/snake.svg)
+<img src="https://raw.githubusercontent.com/SantanderNycz/SantanderNycz/main/snake.svg?t=$(date +%s)" alt="Snake" />
 
 ###
