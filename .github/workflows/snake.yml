@@ -20,8 +20,14 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: SantanderNycz  # 👈 Seu usuário GitHub
-          outputs: snake.svg  # Gera na raiz do repositório
+          github_user_name: SantanderNycz
+          outputs: |
+            snake.svg          # Versão padrão (light)
+            snake-dark.svg     # Versão dark
+          theme: dark          # Opcional: define o tema padrão
+          # Outras opções:
+          # color: orange       # Cor personalizada
+          # type: gif           # Se quiser em GIF (não recomendado para README)
 
       - name: Commit and Push
         run: |
