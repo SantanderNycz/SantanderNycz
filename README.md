@@ -65,6 +65,6 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/SantanderNycz/SantanderNycz/main/dist/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SantanderNycz/SantanderNycz/main/snake.svg)
 
 ###
