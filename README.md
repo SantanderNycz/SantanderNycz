@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Músico por natureza, engenheiro civil por teimosia e dev full-stack por foco e persistência!<br>Bem-vindo ao meu GitHub! Aqui eu mantenho diversos projetos pessoais que desenvolvi desde o começo, do meu primeiro commit até meu primeiro site e minha passagem pela Piscine da 42 Porto!<br>Então boa sorte e espero que goste! :)</p>
+<h4 align="center">Músico por natureza, engenheiro civil por teimosia e dev full-stack por foco e persistência!<br>Bem-vindo ao meu GitHub! Aqui eu mantenho diversos projetos pessoais que desenvolvi desde o começo, do meu primeiro commit até meu primeiro site e minha passagem pela Piscine da 42 Porto!<br>Então boa sorte e espero que goste! :)</h4>
 
 ###
 
@@ -54,21 +54,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SantanderNycz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=SantanderNycz&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantanderNycz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SantanderNycz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="250" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=SantanderNycz&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="236" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantanderNycz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SantanderNycz/SantanderNycz/output/snake.svg" alt="Snake animation" />
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnYyOHFxOXBkdW91NzF5cWZ5bTc4NWpqdGJtYTN6aDdkbnNyZ3dqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgzrTt798d2w/giphy.gif"  />
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnYyOHFxOXBkdW91NzF5cWZ5bTc4NWpqdGJtYTN6aDdkbnNyZ3dqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFgzrTt798d2w/giphy.gif"  />
-</div>
+![Snake animation](https://github.com/SantanderNycz/SantanderNycz/blob/output/github-contribution-grid-snake.svg)
 
 ###
