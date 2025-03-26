@@ -65,6 +65,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SantanderNycz/SantanderNycz/main/snake.svg?t=$(date +%s)" alt="Snake" />
+![Snake animation](https://raw.githubusercontent.com/SantanderNycz/SantanderNycz/main/output/snake.svg)
 
 ###
