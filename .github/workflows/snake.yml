@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda diariamente à meia-noite (UTC)
+  workflow_dispatch:      # Permite acionar manualmente
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SantanderNycz  # Substitua pelo seu usuário
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg  # Opcional (tema escuro)
+            dist/snake.svg              # Nome do arquivo que você está usando
+
+      - name: Push changes
+        run: |
+          git config --global user.name "Seu Nome"
+          git config --global user.email "seu-email@exemplo.com"
+          git add -A
+          git commit -m "Update snake animation"
+          git push
