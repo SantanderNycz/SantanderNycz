@@ -41,10 +41,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="santandernycz.ls@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-santander-nycz/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://slack.com/lsantand" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="35" height="35" alt="slack logo"  />
@@ -55,7 +55,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SantanderNycz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="250" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=SantanderNycz&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="236" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=SantanderNycz&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="235" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantanderNycz&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
