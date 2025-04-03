@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <a href="instagram.com/leo.nycz" target="_blank">
+  <a href="https://www.instagram.com/leo.nycz/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="santandernycz.ls@gmail.com" target="_blank">
