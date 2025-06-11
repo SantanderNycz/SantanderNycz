@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Músico por natureza, engenheiro civil por teimosia e dev full-stack por foco e persistência!<br>Bem-vindo ao meu GitHub! Aqui eu mantenho diversos projetos pessoais que desenvolvi desde o começo, do meu primeiro commit até meu primeiro site e minha passagem pela Piscine da 42 Porto!<br>Então boa sorte e espero que goste! :)</h4>
+<h4 align="center">Músico por natureza, engenheiro civil por teimosia e dev full-stack por persistência!<br>Bem-vindo ao meu GitHub! Aqui eu mantenho diversos projetos pessoais que desenvolvi desde o começo, do meu primeiro commit até meu primeiro site e minha passagem pela Piscine da 42 Porto!<br>Então boa sorte e espero que goste! :)</h4>
 
 ###
 
