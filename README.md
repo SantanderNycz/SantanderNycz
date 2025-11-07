@@ -57,14 +57,15 @@
 
 ###
 
-## 💼 Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1tWb2-Zvu8xLjf62QGpIzAOm6CxhifjFJ/view?usp=sharing" download>Download my resume</a>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=SantanderNycz&theme=tokyonight&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanderNycz&theme=tokyonight&hide_border=false&layout=compact" />
 </div>
+
+## 💼 Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/1tWb2-Zvu8xLjf62QGpIzAOm6CxhifjFJ/view?usp=sharing" download>Download my resume</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
