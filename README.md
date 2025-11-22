@@ -10,7 +10,7 @@
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SantanderNycz&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanderNycz&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanderNycz&hide=Lua,PHP,GLSL&include_repo=duck-shop,GreenLoop,Pong-Vanilla,AdmEscolar,DuelDesk,spotify,sandlerflix,Bootcamp-Santander-Python,AngularJS&size_weight=0.2&count_weight=0.8&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   
 </div>
 
