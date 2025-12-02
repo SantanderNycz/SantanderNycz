@@ -60,6 +60,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest.js" height="50" /></a>  
   <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="50" /></a>  
+  <a href="https://www.jwt.io/" target="_blank"><img src="https://api.iconify.design/logos/jwt-icon.svg" style="height:50px; width:auto;"/></a>  
 </div>
 
 </td><td valign="top" width="25%">
