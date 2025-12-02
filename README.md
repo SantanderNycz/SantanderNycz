@@ -28,7 +28,7 @@
 
 <table><tr><td valign="top" width="25%">
 
-### Frontend  
+<h3 align="center">Frontend</h3> 
 <div align="center">  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
@@ -42,7 +42,7 @@
 
 </td><td valign="top" width="25%">
 
-### Backend  
+<h3 align="center">Backend</h3> 
 <div align="center">  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>  
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>
@@ -53,7 +53,7 @@
 
 </td><td valign="top" width="25%">
 
-### Data & Testing  
+<h3 align="center">Data & Testing</h3>
 <div align="center">  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>  
@@ -65,7 +65,7 @@
 
 </td><td valign="top" width="25%">
 
-### Tools & Others
+<h3 align="center">Tool & Others</h3>
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>
