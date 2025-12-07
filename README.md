@@ -49,6 +49,7 @@
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" height="50" /></a>
   <a href="https://www.ibm.com/docs/pt/i/7.4.0?topic=languages-c-c" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a> 
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
+  <a href="https://www.jwt.io/" target="_blank"><img src="https://api.iconify.design/logos/jwt-icon.svg" style="height:50px; width:auto;"/></a>  
 </div>
 
 </td><td valign="top" width="25%">
@@ -59,7 +60,6 @@
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>  
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
   <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="50" /></a>  
-  <a href="https://www.jwt.io/" target="_blank"><img src="https://api.iconify.design/logos/jwt-icon.svg" style="height:50px; width:auto;"/></a>  
   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest.js" height="50" /></a>  
 </div>
 
