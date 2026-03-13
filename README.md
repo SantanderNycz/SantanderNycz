@@ -83,7 +83,7 @@
 
 ## 💼 Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1tWb2-Zvu8xLjf62QGpIzAOm6CxhifjFJ/view?usp=drive_link" download>Download my resume</a>
+> <a href="[https://drive.google.com/file/d/1tWb2-Zvu8xLjf62QGpIzAOm6CxhifjFJ/view?usp=drive_link](https://drive.google.com/file/d/1Xl2y18cJBHS-6a-7YZHirlI8JlTnrIe8/view?usp=sharing)" download>Download my resume</a>
 <div align="center">
   <a href="mailto:santandernycz.ls@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="25" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/leonardo-santander-nycz/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="23" alt="LinkedIn" /></a>
