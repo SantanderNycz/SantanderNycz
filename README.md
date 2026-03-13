@@ -48,24 +48,24 @@
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>
   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=expressjs" alt="Express.js" height="50" /></a>
   <a href="https://www.ibm.com/docs/pt/i/7.4.0?topic=languages-c-c" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a> 
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>
+    <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest.js" height="50" /></a>  
   <a href="https://www.jwt.io/" target="_blank"><img src="https://api.iconify.design/logos/jwt-icon.svg" style="height:50px; width:auto;"/></a>  
 </div>
 
 </td><td valign="top" width="25%">
 
-<h3 align="center">Data & Testing</h3>
+<h3 align="center">Data & ORM</h3>
 <div align="center">  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>  
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
   <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" height="50" /></a>  
-  <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=jest" alt="Jest.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="25%">
 
-<h3 align="center">Tool & Others</h3>
+<h3 align="center">DevOps & Others</h3>
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>
