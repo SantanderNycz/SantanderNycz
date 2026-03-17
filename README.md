@@ -88,9 +88,9 @@
 ## 💼 Let's connect
 
 <div align="center">
-  <a href="mailto:santandernycz.ls@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="25" alt="Email" /></a>
+  <a href="mailto:santandernycz.ls@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="25" align="center" alt="Email" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/leonardo-santander-nycz/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="25" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/leonardo-santander-nycz/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="25" align="center" alt="LinkedIn" /></a>
   &nbsp;
 <a href="https://portfolio-leo-nycz.vercel.app">
   <img src="https://drive.google.com/uc?export=view&id=1ag_qAs0gxD-dGCq92UPALTPrQY7RVIsr" height="25" align="center" alt="portfólio" />
