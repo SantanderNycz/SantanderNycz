@@ -26,7 +26,7 @@
 
 | Project | Stack | Status |
 |---|---|---|
-| [Schedully](https://github.com/SantanderNycz/schedully) — Multi-tenant SaaS booking platform | TypeScript · Node.js · React · Drizzle ORM · PostgreSQL · Stripe | 🟡 In development |
+| [Schedully](https://github.com/SantanderNycz/schedully) — Multi-tenant SaaS booking platform | TypeScript · Node.js · React · Drizzle ORM · PostgreSQL · Stripe | ✅ Live |
 | [BeanBase](https://github.com/SantanderNycz/beanbase) — Social network for coffee shops | Express · React · TypeScript · Cloudinary · OAuth · Railway | ✅ Live |
 | [Spotify Clone](https://github.com/SantanderNycz/spotify-v2) — Full rebuild with real audio playback | React · Vite · Deezer API · Tailwind CSS | ✅ Live |
 | [Sandlerflix](https://github.com/SantanderNycz/sandlerflix) — Netflix clone with i18n and trailer integration | Vanilla JS · HTML · CSS | ✅ Live |
