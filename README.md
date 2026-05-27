@@ -15,8 +15,8 @@
 
 <div>
 🔧 Currently building **[Schedully](https://github.com/SantanderNycz/schedully)** — a multi-tenant SaaS booking platform with Stripe subscriptions, role-based access control, and a TypeScript + Drizzle ORM + PostgreSQL backend  <br>
-🎓 Student at **Escola 42 Porto** (C, algorithms, OS, and systems programming) <br>
-🌍 Based in Porto, open to remote roles across Europe  <br>
+🎓 42 Porto (C, algorithms, operating systems, and systems programming). Postgraduate studies in UX and Full Stack Web Development. <br>
+🌍 Based in Porto, open to remote roles across Europe <br>
 🎵 Also a musician, which probably explains why there's projects about music in the repos  
 </div>
 
@@ -27,7 +27,7 @@
 | Project | Stack | Status |
 |---|---|---|
 | [Schedully](https://github.com/SantanderNycz/schedully) — Multi-tenant SaaS booking platform | TypeScript · Node.js · React · Drizzle ORM · PostgreSQL · Stripe | ✅ Live |
-| [BeanBase](https://github.com/SantanderNycz/beanbase) — Social network for coffee shops | Express · React · TypeScript · Cloudinary · OAuth · Railway | ✅ Live |
+| [BeanBase](https://github.com/SantanderNycz/beanbase) — Social network for coffee shops lovers | Express · React · TypeScript · Cloudinary · OAuth · Render | ✅ Live |
 | [Spotify Clone](https://github.com/SantanderNycz/spotify-v2) — Full rebuild with real audio playback | React · Vite · Deezer API · Tailwind CSS | ✅ Live |
 | [Sandlerflix](https://github.com/SantanderNycz/sandlerflix) — Netflix clone with i18n and trailer integration | Vanilla JS · HTML · CSS | ✅ Live |
 
