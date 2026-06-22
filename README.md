@@ -14,10 +14,11 @@
 ## About me
 
 <div>
-🔧 Currently building **[Schedully](https://github.com/SantanderNycz/schedully)** — a multi-tenant SaaS booking platform with Stripe subscriptions, role-based access control, and a TypeScript + Drizzle ORM + PostgreSQL backend  <br>
-🎓 42 Porto (C, algorithms, operating systems, and systems programming). Postgraduate studies in UX and Full Stack Web Development. <br>
-🌍 Based in Porto, open to remote roles across Europe <br>
-🎵 Also a musician, which probably explains why there's projects about music in the repos  
+💼 Working as Web Developer at <a href="https://www.laskasas.com">Laskasas</a><br>
+🔧 Currently building <strong><a href="https://github.com/SantanderNycz/schedully">Schedully</a></strong> — a multi-tenant SaaS booking platform with Stripe subscriptions, role-based access control, and a TypeScript + Drizzle ORM + PostgreSQL backend<br>
+🎓 42 Porto (C, algorithms, operating systems, and systems programming). Postgraduate studies in UX and Full Stack Web Development.<br>
+🌍 Based in Porto, open to remote roles across Europe<br>
+🎵 Also a musician, which probably explains why there's music-related projects in the repos
 </div>
 
 ---
