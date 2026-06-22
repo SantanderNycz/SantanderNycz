@@ -28,6 +28,7 @@
 | Project | Stack | Status |
 |---|---|---|
 | [Schedully](https://github.com/SantanderNycz/schedully) — Multi-tenant SaaS booking platform | TypeScript · Node.js · React · Drizzle ORM · PostgreSQL · Stripe | ✅ Live |
+| [Strata](https://github.com/SantanderNycz/strata) — 3D industrial drilling pattern visualiser | React · Three.js · TypeScript · GraphQL · Apollo · PostgreSQL · Prisma | ✅ Live |
 | [BeanBase](https://github.com/SantanderNycz/beanbase) — Social network for coffee shops lovers | Express · React · TypeScript · Cloudinary · OAuth · Render | ✅ Live |
 | [Spotify Clone](https://github.com/SantanderNycz/spotify-v2) — Full rebuild with real audio playback | React · Vite · Deezer API · Tailwind CSS | ✅ Live |
 | [Sandlerflix](https://github.com/SantanderNycz/sandlerflix) — Netflix clone with i18n and trailer integration | Vanilla JS · HTML · CSS | ✅ Live |
