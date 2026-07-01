@@ -14,7 +14,7 @@
 ## About me
 
 <div>
-💼 Working as Web Developer at <a href="https://www.laskasas.com">Laskasas</a><br>
+💼 Working as Web Developer at <a href="https://www.laskasas.com">Laskasas</a> and as Full Stack Developer at <a href="https://www.void-studio-vs.vercel.app">Void Studio</a><br>
 🔧 Currently building <strong><a href="https://github.com/SantanderNycz/schedully">Schedully</a></strong> — a multi-tenant SaaS booking platform with Stripe subscriptions, role-based access control, and a TypeScript + Drizzle ORM + PostgreSQL backend<br>
 🎓 42 Porto (C, algorithms, operating systems, and systems programming). Postgraduate studies in UX and Full Stack Web Development.<br>
 🌍 Based in Porto, open to remote roles across Europe<br>
